@@ -1,0 +1,7 @@
+## Pages
+- [- Dr. Andy P. Martinez](/blog/:slug): No description available
+- [Andy Parra-Martinez | Educational Psychology, Mississippi State University](/): Bridging the gap between learning science and technology through research and applied solutions
+- [Apps & Tools - Andy P. Martinez](/apps): Open source tools for educators including self-efficacy calculator, Bloom
+- [Blog - Dr. Andy P. Martinez](/blog): Academic perspectives, research insights, and field developments in educational psychology.
+- [Research - Andy P. Martinez](/research): Research on wisdom, talent development, motivation, and assessments
+- [Teaching & Courses - Andy P. Martinez](/teaching): Graduate and undergraduate courses in educational psychology, statistics, and individual differences
