@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="72pt" height="72pt" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 72 
+L 72 72 
+L 72 0 
+L 0 0 
+L 0 72 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.924528 50.943396 
+C 37.328667 50.943396 42.512194 48.796309 46.333497 44.975006 
+C 50.1548 41.153703 52.301887 35.970176 52.301887 30.566038 
+C 52.301887 25.161899 50.1548 19.978372 46.333497 16.157069 
+C 42.512194 12.335766 37.328667 10.188679 31.924528 10.188679 
+C 26.52039 10.188679 21.336863 12.335766 17.51556 16.157069 
+C 13.694257 19.978372 11.54717 25.161899 11.54717 30.566038 
+C 11.54717 35.970176 13.694257 41.153703 17.51556 44.975006 
+C 21.336863 48.796309 26.52039 50.943396 31.924528 50.943396 
+z
+" clip-path="url(#p3186f402be)" style="fill: #ffffff; stroke: #0f172a; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 46.867925 45.509434 
+L 64.528302 64.528302 
+" clip-path="url(#p3186f402be)" style="fill: none; stroke: #0f172a; stroke-width: 3.08; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 18.339623 30.566038 
+L 26.490566 30.566038 
+L 31.924528 19.018868 
+L 37.358491 42.792453 
+L 45.509434 30.566038 
+" clip-path="url(#p3186f402be)" style="fill: none; stroke: #f59e0b; stroke-width: 1.76; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3186f402be">
+   <rect x="0" y="0" width="72" height="72"/>
+  </clipPath>
+ </defs>
+</svg>
